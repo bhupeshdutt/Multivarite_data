@@ -1,2 +1,3 @@
 # Multivarite_data
-This is teh course about the multivariate data analytics. in this course we have discussed about EFA, clustering, MRA, CFA, SEM etc with hands on practice with r. 
+This is the course about multivariate data analytics. In this course, we have discussed EFA, clustering, MRA, CFA, SEM, and related methods, with hands-on practice in R. 
+# Why Multivariate?
